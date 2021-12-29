@@ -1,0 +1,54 @@
+* {
+    font-family: 'Roboto Condensed', sans-serif;
+}
+
+section {
+    height: 300px
+}
+
+.header1 {
+    background-image: url(h1.svg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+.header2 {
+    background-image: url(h2.svg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+.header3 {
+    background-image: url(h3.svg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+.header4 {
+    background-image: url(h4.svg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+.header5 {
+    background-image: url(h5.svg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+.header6 {
+    background-image: url(h6.svg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+
+.bg-dark {
+    background-color: rgb(255 255 255 / 30%) !important;
+}
